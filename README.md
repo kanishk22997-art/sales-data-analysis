@@ -12,6 +12,6 @@ Analyze sales trends and derive business insights using Python.
 - Electronics category generated maximum revenue
 - Positive correlation between sales and profit
 ## Visualizations
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](sales_trend.png)
 ## Conclusion
 This project demonstrates how data visualization helps in making business decisions.
